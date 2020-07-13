@@ -1,0 +1,39 @@
+.logo{
+    width:90px;
+    height:25px;
+    display:inline-block;
+    margin:13px 0px 10px 10px;
+  }
+  .index_header_search{
+    width:220px;
+  }
+  .loginBtn{
+    margin:14px 10px 10px 2px;
+    width: 40px;
+    height:24px;
+    color:rgb(0, 81, 187);
+    border:1px solid rgb(0, 81, 187) ;
+    text-align: center;
+    border-radius: 6px;
+    line-height: 24px;
+  }
+  .main_img{
+    width:375px;
+    height:550px
+  }
+  .main_turn{
+    width:350px;
+    height:280px
+  }
+  
+  .my-swipe .van-swipe-item {
+      color: #fff;
+      font-size: 20px;
+      /*line-height: 200px;*/
+      text-align: center;
+      background-color:rgb(0, 81, 187);
+    }
+  .img_turn{
+    width: 375px;
+    height: 200px;
+  }
